@@ -1,0 +1,12 @@
+name: bus_simulator
+title: bus_simulator
+username:
+account: marcus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 145582
+bundleId: 1879885
+url: https://marcus.shinyapps.io/bus_simulator/
+when: 1550341658.29648
+asMultiple: FALSE
+asStatic: FALSE
