@@ -187,7 +187,10 @@ ui <- fluidPage(
                  )
                )
                
-      )
+      ),
+      
+      tabPanel("About", 
+               includeHTML("about.html"))
       
       )
     ))
